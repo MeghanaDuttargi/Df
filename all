@@ -28,6 +28,7 @@ ppt
 - cat image1.jpg.out
 
 image steganography
+- create a txt file and image -> put something in the file ->then embed the txt in the image
 - steghide embed -ef hi.txt -cf na.jpeg
 - steghide extract -sf na.jpeg
 
